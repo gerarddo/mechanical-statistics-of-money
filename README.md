@@ -86,10 +86,10 @@ Ahora haremos lo mismo para el sistema con distribución inicial uniforme.
 
 
 ![uniform_diff_classmax](assets/uniform_4.png)
-*Fig. 13: Sistema a comparar que utiliza $\Delta m = 0.5$.*
+*Fig. 15: Sistema a comparar que utiliza $\Delta m = 0.5$.*
 
 ![uniform_diff_classmax](assets/uniform_diff_deltam.png)
-*Fig. 14: Sistema que utiliza $\Delta m = 0.25$.*
+*Fig. 16: Sistema que utiliza $\Delta m = 0.25$.*
 
 Observamos de nuevo que en el caso con $\Delta m = 0.25$ el sistema converge más lentamente. De igual forma, la entropía también es errática como en el caso $\Delta m = 0.5$.
 
@@ -97,7 +97,7 @@ Observamos de nuevo que en el caso con $\Delta m = 0.25$ el sistema converge má
 
 
 ![uniform_diff_classmax](assets/entropy_comparison.png)
-*Fig. 14: Comparación de entropías para distribuciones iniciales uniforme y delta de Dirac.*
+*Fig. 17: Comparación de entropías para distribuciones iniciales uniforme y delta de Dirac.*
 
 Vemos que para los cuatro casos, las distribuciones iniciales uniformes obtienen una mayor entropía que las Deltas de Dirac. Igualmente vemos que las entropías para los casos uniformes empieza desde un valor mayor que cero, mientras que en el caso de la Delta de Dirac se inicia de cero.
             
@@ -123,10 +123,10 @@ $$
 
 
 ![uniform_diff_classmax](assets/delta_wellness_a.png)
-*Fig. 14: Fin del proceso para sistema con distribución inicial Delta de Dirac.*
+*Fig. 18: Fin del proceso para sistema con distribución inicial Delta de Dirac.*
 
 ![uniform_diff_classmax](assets/uniform_wellness_a.png)
-*Fig. 14: Fin del proceso para sistema con distribución inicial uniforme.*
+*Fig. 19: Fin del proceso para sistema con distribución inicial uniforme.*
 
 Como con la entropía, vemos que la función de bienestar es más errática para el caso de distribución inicial uniforme que para la Delta de Dirac. Observamos que al avanzar el tiempo el bienestar general de la sociedad disminuye. 
             
@@ -145,10 +145,10 @@ $$
 o_1(M) = 1 - e^{-aM}
 $$
 
-![uniform_diff_classmax](assets/delta_wellness_b.png)
-*Fig. 14: Fin del proceso para sistema con distribución inicial Delta de Dirac.*
+![uniform_diff_classmax](assets/delta_wellness_b.png)git push origin mas
+*Fig. 20: Fin del proceso para sistema con distribución inicial Delta de Dirac.*
 
 ![uniform_diff_classmax](assets/uniform_wellness_b.png)
-*Fig. 14: Fin del proceso para sistema con distribución inicial uniforme.*
+*Fig. 21: Fin del proceso para sistema con distribución inicial uniforme.*
 
 De nuevo, la función de bienestar es más errática para el caso de distribución inicial uniforme que para la Delta de Dirac. Ahora observamos que mientras para el caso de distribución Delta de Dirac hubo una disminución del bienestar más lenta que con la función de bienestar anterior. Para el caso de distribución uniforme la gráfica del bienestar parece casi idéntica.
